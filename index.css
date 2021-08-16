@@ -154,10 +154,6 @@ footer{
     color: #0077b5;
 }
 
-@media  {
-    
-}
-
 @media (min-width: 768px) and (max-width: 1024px) {
     input{
         display: inline-block;
@@ -199,4 +195,5 @@ footer{
     }
     .btn{
         width: 40%;
+}
 }
